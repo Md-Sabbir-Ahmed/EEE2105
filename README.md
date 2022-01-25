@@ -18,7 +18,6 @@
 |No.|Date|Topics|Lecture Materials :link:|Extra information|
 |:-----:|:------:|:-----:|:-----:|-----:|
 |A(1)|03/12/2021|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
-
 |B(1)|05/12/2021|unknown|[:closed_book:](https://www.protectedtext.com/eee2105)||
 
 |C(1)|06/12/2021|unknown|[:orange_book:](https://www.protectedtext.com/eee2105)||
