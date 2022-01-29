@@ -41,7 +41,7 @@
 |M(2)|09/01/2022|Flux Density , Permeability , Magnetizing Force , Hysterisis Loop , FLR & FRR , Faraday's 1st & 2nd Law , Lenz's Law |[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L2|
 |M(3)|09/01/2022|Transformer(Tx), Working Principle of Tx ,Characteristics of ideal Tx , Transformation Ratio ,Stepdown & Stepup Tx ,  Power in ideal Tx|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L3|
 |M(4)|09/01/2022|Induced emf eqn of Tx , Impedance Transformation through a Tx , Chapman - Exercise:2.1|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L4|
-|M(5)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
+|M(5)|09/01/2022|Ideal Transformer Characteristics , Practical Transformer Characteristics  , Parts of a three phase transformer , [Build an electric transformer (DIY)](https://www.youtube.com/watch?v=s6NyTprQCBI)|[:blue_book:](https://www.protectedtext.com/eee2105)||
 |M(6)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
 |M(7)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
 |N(1)|17/01/2022|unknown|[:closed_book:](https://www.protectedtext.com/eee2105)||
