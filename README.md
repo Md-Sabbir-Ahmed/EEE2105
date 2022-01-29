@@ -30,7 +30,8 @@
 |J(1)|02/01/2022|unknown|[:green_book:](https://www.protectedtext.com/eee2105)||
 |K(1)|03/01/2022|unknown|[:notebook:](https://www.protectedtext.com/eee2105)||
 |L(1)|04/01/2022|unknown|[:ledger:](https://www.protectedtext.com/eee2105)||
-|M(1)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
+|M(1)|09/01/2022|Electric power system , Magnetic Fields , The Right hand grip rule|[:blue_book:](https://www.protectedtext.com/eee2105)||
+|M(2)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
 |N(1)|17/01/2022|unknown|[:closed_book:](https://www.protectedtext.com/eee2105)||
 |O(1)|18/01/2022|unknown|[:orange_book:](https://www.protectedtext.com/eee2105)||
 |P(1)|20/01/2022|unknown|[:green_book:](https://www.protectedtext.com/eee2105)||
