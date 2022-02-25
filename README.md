@@ -15,11 +15,10 @@
 |L6|13/12/2021|Ideal Transformer Characteristics , Practical Transformer Characteristics , Losses in Transformer|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline|Connected to M5 , M7 & E1|
 |L7|14/12/2021|Losses in Transformer|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline|Connected to M7 & E1|
 |L8|20/12/2021|Equivalent circuit of 1 phase Transformer |[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline|Connected to M8|
-|L9|21/12/2021|Open Circuit Test|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
-|L10|22/12/2021||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
-|L11|26/12/2021||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
-|L12|27/12/2021||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
-|L13|28/12/2021||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
+|L9|21/12/2021|Open Circuit Test,Phasor Diagram |[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline|Connected to G1 & M9|
+|L10|26/12/2021|Short Circuit Test,Chapman Example 2.2(4th & 5th Edition)|[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline|Connected to H1 & M10|
+|L11|27/12/2021||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
+|L12|28/12/2021||[:notebook_with_decorative_cover:](https://www.protectedtext.com/eee2105)|Offline||
 
 
 
@@ -40,7 +39,7 @@
 |F(1)|14/12/2021|Construction of 1-phase TX. video|[:ledger:](https://www.protectedtext.com/eee2105)|Connected to L6|
 |F(2)|14/12/2021|LECTURE:6: Equivalent circuit of single phase transformer|[:ledger:](https://www.protectedtext.com/eee2105)|Connected to L8|
 |G(1)|21/12/2021|LECTURE-7: Open Circuit and Short Circuit test (Theory)|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L9|
-|H(1)|27/12/2021|unknown|[:closed_book:](https://www.protectedtext.com/eee2105)||
+|H(1)|27/12/2021|LECTURE:8: Open Circuit and Short Circuit test (MATH)|[:closed_book:](https://www.protectedtext.com/eee2105)|Connected to L10|
 |I(1)|28/12/2021|unknown|[:orange_book:](https://www.protectedtext.com/eee2105)||
 |J(1)|02/01/2022|unknown|[:green_book:](https://www.protectedtext.com/eee2105)||
 |K(1)|03/01/2022|unknown|[:notebook:](https://www.protectedtext.com/eee2105)||
@@ -53,8 +52,8 @@
 |M(6)|09/01/2022|Theraja- 32.3 , 32.4 , 32.5  ,  Three Phase Transformers , Transformer Connections |[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L5, [3 Phase: Star](https://youtu.be/rB1NafJ6XPk) , [3 Phase: Delta](https://youtu.be/7slCHGpfHtg), [3 Phase: How to Calculate Line Voltage, Phase Voltage, Line Current & Phase Current in Star & Delta](https://youtu.be/ky7cs1NYvCI) |
 |M(7)|09/01/2022|Losses in Transformer|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L6 , L7|
 |M(8)|09/01/2022|Equivalent circuit of 1 phase Transformer|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L8|
-|M(9)|09/01/2022|Open circuit test|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L9|
-|M(10)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
+|M(9)|09/01/2022|Open circuit test,Phasor Diagram |[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L9|
+|M(10)|09/01/2022|Short Circuit Test,Chapman Example 2.2(4th & 5th Edition)|[:blue_book:](https://www.protectedtext.com/eee2105)|Connected to L10|
 |M(11)|09/01/2022|unknown|[:blue_book:](https://www.protectedtext.com/eee2105)||
 |N(1)|17/01/2022|unknown|[:closed_book:](https://www.protectedtext.com/eee2105)||
 |O(1)|18/01/2022|unknown|[:orange_book:](https://www.protectedtext.com/eee2105)||
